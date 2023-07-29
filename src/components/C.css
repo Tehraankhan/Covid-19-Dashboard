@@ -75,6 +75,7 @@ th {
 .outer-wrapper {
     border: 1px solid black;
     margin: 40px 109px;
+    color: white;
 
 
 
@@ -90,5 +91,12 @@ span {
     color: white;
     text-decoration: solid;
     font-size: 50px;
+
+}
+
+body {
+
+    background-image: linear-gradient(194deg, #eddb99, #006e80e0, #0000ff70);
+    margin: 0px 0px;
 
 }
